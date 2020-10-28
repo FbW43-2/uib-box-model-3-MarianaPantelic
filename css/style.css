@@ -15,6 +15,7 @@ section {
   color: white;
   padding: 40px;
   margin-bottom: 20px;
+  border: groove 5px grey;
 }
 h2 {
   text-align: center;
@@ -25,10 +26,8 @@ aside {
   padding-left: 10px;
   margin-left: 30px;
 }
-.border {
-  border: groove 5px grey;
-}
-.inline-block {
+
+.inline-block div {
   display: inline-block;
 }
 section img {
