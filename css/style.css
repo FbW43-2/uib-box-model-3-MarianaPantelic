@@ -14,6 +14,7 @@ section {
   background-color: rgba(0, 0, 0, 0.611);
   color: white;
   padding: 40px;
+  margin-bottom: 20px;
 }
 h2 {
   text-align: center;
@@ -29,7 +30,6 @@ aside {
 }
 .inline-block {
   display: inline-block;
-  margin: 10px;
 }
 section img {
   margin: 0 20px;
