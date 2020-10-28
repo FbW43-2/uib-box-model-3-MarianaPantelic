@@ -1,0 +1,36 @@
+html {
+  margin: 0;
+  background-image: url(/img/Effiel\ Tower\ -\ Paris\ Highlights.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.container {
+  max-width: 1060px;
+  padding: 0 80px;
+  box-sizing: border-box;
+  margin: 100px 0px 0px 700px;
+}
+section {
+  background-color: rgba(0, 0, 0, 0.611);
+  color: white;
+  padding: 40px;
+}
+h2 {
+  text-align: center;
+}
+aside {
+  float: right;
+  border-left: solid 2px grey;
+  padding-left: 10px;
+  margin-left: 30px;
+}
+.border {
+  border: groove 5px grey;
+}
+.inline-block {
+  display: inline-block;
+  margin: 10px;
+}
+section img {
+  margin: 0 20px;
+}
